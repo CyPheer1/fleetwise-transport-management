@@ -1,0 +1,21 @@
+# FleetWise - Requirements Python
+# Assistant Stratégique de Gestion des Tâches de Transport
+
+# Framework Django et base
+Django==4.2.16
+djangorestframework==3.14.0
+
+# Base de données MySQL (PyMySQL for Python 3.13 compatibility)
+PyMySQL==1.1.2
+
+# Gestion CORS pour React
+django-cors-headers==4.6.0
+
+# Clients HTTP pour API externes
+requests==2.32.3
+
+# Outils de développement (optionnels)
+python-dotenv==1.0.1
+
+# Note: Ces versions ont été testées ensemble
+# Pour l'installation: pip install -r requirements.txt
